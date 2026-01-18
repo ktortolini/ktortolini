@@ -33,13 +33,4 @@
                   src="https://img.shields.io/badge/Solidity-000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiM1MTliZjUiIGQ9Ik00LjQwOSA2LjYwOEw3Ljk4MS4yNTVsMy41NzIgNi4zNTN6TTguNDExIDBsMy41NjkgNi4zNDhMMTUuNTUyIDB6bTQuMDM2IDE3LjM5MmwzLjU3MiA2LjM1NGwzLjU3NS02LjM1NHptLS42MDgtMTAuMjg0aC03LjQzbDMuNzE1IDYuNjA1em0uNDI4LS4yNWg3LjQyOEwxNS45ODIuMjU1ek0xNS41ODkgMjRsLTMuNTY5LTYuMzQ5TDguNDQ4IDI0em0tMy44NTYtNi44NThINC4zMDZsMy43MTIgNi42MDN6bS40MjgtLjI1aDcuNDMzbC0zLjcxOC02LjYwNXoiLz48L3N2Zz4=&logoColor=hsl(213,89%,64%)&color=hsl(216,28%,7%)"></a>
       <a href="https://tailwindcss.com/docs"><img
                   src="https://img.shields.io/badge/TailwindCSS-000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiM1MTliZjUiIGQ9Ik0xMi4wMDEgNC44cS00LjggMC02IDQuOHExLjgtMi40IDQuMi0xLjhjLjkxMy4yMjggMS41NjUuODkgMi4yODggMS42MjRDMTMuNjY2IDEwLjYxOCAxNS4wMjcgMTIgMTguMDAxIDEycTQuOCAwIDYtNC44cS0xLjggMi40LTQuMiAxLjhjLS45MTMtLjIyOC0xLjU2NS0uODktMi4yODgtMS42MjRDMTYuMzM3IDYuMTgyIDE0Ljk3NiA0LjggMTIuMDAxIDQuOG0tNiA3LjJxLTQuOCAwLTYgNC44cTEuOC0yLjQgNC4yLTEuOGMuOTEzLjIyOCAxLjU2NS44OSAyLjI4OCAxLjYyNGMxLjE3NyAxLjE5NCAyLjUzOCAyLjU3NiA1LjUxMiAyLjU3NnE0LjggMCA2LTQuOHEtMS44IDIuNC00LjIgMS44Yy0uOTEzLS4yMjgtMS41NjUtLjg5LTIuMjg4LTEuNjI0QzEwLjMzNyAxMy4zODIgOC45NzYgMTIgNi4wMDEgMTIiLz48L3N2Zz4=&logoColor=hsl(213,89%,64%)&color=hsl(216,28%,7%)"></a>
-      <section><br><a href="https://ktortolini.github.io/random-cards/"><img
-                        src="https://github-readme-stats.vercel.app/api/pin/?username=ktortolini&repo=random-cards&show_owner=true&theme=algolia&hide_border=true&bg_color=0d1117"></a>
-            <a href="https://my-coding-trainer-project-cbcb611cb5b8.herokuapp.com/"><img
-                        src="https://github-readme-stats.vercel.app/api/pin/?username=ktortolini&repo=coding-trainer&show_owner=true&theme=algolia&hide_border=true&bg_color=0d1117"></a><a
-                  href="https://interactive-rose.deno.dev"><img
-                        src="https://github-readme-stats.vercel.app/api/pin/?username=ktortolini&repo=interactive-rose&show_owner=true&theme=algolia&hide_border=true&bg_color=0d1117"></a>
-            <a href="https://gist.github.com/ktortolini/3248325b3cfa0a942c2bd67c819966f1"><img
-                        src="https://github-readme-stats.vercel.app/api/pin/?username=ktortolini&repo=modeling-shapes&show_owner=true&theme=algolia&hide_border=true&bg_color=0d1117"></a>
-      </section>
 </div>
